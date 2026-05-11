@@ -2,3 +2,5 @@
 fix(login):corrige botão do de login do firefox
 
 feat(profile):adiciona a tela de histórico de pedidos
+
+feat(api)!:renomeia userName para fullName
